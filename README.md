@@ -69,7 +69,9 @@ You should see the following message:
 
 - Go to the [AWS Lambda console](https://console.aws.amazon.com/lambda/home?region=us-east-1), and from the left navigation pane, choose Applications. 
 
-![alt text](img/apigw_endpoint.png)
+<p align="left">
+  <img width="600" height="300" src="https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/apigw_endpoint.png">
+</p>
 
 - Choose the link for the uploader app. Its description says Serverless web application for uploading files to S3.
 - On the details page, choose the API endpoint URL. 
