@@ -79,7 +79,9 @@ You should see the following message:
 - Go to the AWS Lambda console and choose your Lambda function
 - From the Monitoring tab, choose View logs in CloudWatch and select the corresponding logstream to view the log results shown below:
 
-![alt text](img/cw_log.png)
+<p align="left">
+  <img width="600" height="300" src="https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/cw_log.png">
+</p>
 
 Remember to clean up resources created from this demo in your AWS account!
 
