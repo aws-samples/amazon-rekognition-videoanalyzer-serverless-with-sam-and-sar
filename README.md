@@ -75,7 +75,7 @@ You should see the following message:
 
 - Choose the link for the uploader app. Its description says Serverless web application for uploading files to S3.
 - On the details page, choose the API endpoint URL. 
-- Download `img/andy_portrait_thumb.jpg` and `img/jeff_portrait_thumb.jpg` to your local system. Then drag and drop both images inside the orange circle displayed by the API gateway endpoint. 
+- Download [img/andy_portrait_thumb.jpg](https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/andy_portrait_thumb.jpg) and [img/jeff_portrait_thumb.jpg](https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/jeff_portrait_thumb.jpg) to your local system. Then drag and drop both images inside the orange circle displayed by the API gateway endpoint. 
 - Go to the AWS Lambda console and choose your Lambda function
 - From the Monitoring tab, choose View logs in CloudWatch and select the corresponding logstream to view the log results shown below:
 
