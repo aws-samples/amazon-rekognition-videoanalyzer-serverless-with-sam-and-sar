@@ -31,7 +31,9 @@ The following diagram shows the architecture of the image recognition applicatio
 - Choose Browse serverless app repository and in the search field, enter upload to s3. 
 - Choose the [uploader](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:233054207705:applications~uploader) application, as shown in the screenshot below:
 
-![alt text](img/sar_app_search.png)
+<p align="left">
+  <img width="600" height="300" src="https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/sar_app_search.png">
+</p>
 
 ### Deploying the application
 Download the `code` directory to your local system and then run the following command to deploy the template:
