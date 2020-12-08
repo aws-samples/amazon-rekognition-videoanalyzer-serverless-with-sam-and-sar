@@ -20,7 +20,9 @@ To implement this demo application, you will need the following:
 
 The following diagram shows the architecture of the image recognition application we will build:
 
-![alt text](img/arch_diag.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/aws-samples/amazon-rekognition-videoanalyzer-serverless-with-sam-and-sar/blob/master/img/arch_diag.png">
+</p>
 
 ### Searching for the uploader appin AWS Serverless Application Repository
 
